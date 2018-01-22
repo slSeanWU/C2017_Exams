@@ -21,7 +21,7 @@ int cmp(const void *a, const void *b){
     else if(c->w > d->w) return 1;
     else if(c->h < d->h) return -1;
     else if(c->h > d->h) return 1;
-    else return (strcmp(c->name, d->name));
+    else return strcmp(c->name, d->name);
 }
  
 int main(void){
