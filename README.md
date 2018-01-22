@@ -11,10 +11,10 @@ In-lab exams codes
 4. Function  
 5. Pointer  
 6. String 
-7. Bitwise Operations  
+7. Bit-wise Operations  
 8. Recursion
 9. Struct
-10. File I/O    
+10. File Processing    
 11. Data Structure  
 12. Object
 13. Preprocessing  
