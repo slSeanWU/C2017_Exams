@@ -18,4 +18,7 @@ In-lab exams codes
 11. Data Structure  
 12. Object
 13. Preprocessing  
-14. Standard Library
+14. Standard Library  
+## Links
+Course Online Judge System: https://judgegirl.csie.org/  
+Complete Problem Set: https://judgegirl.csie.org/problems/domain/0#50002
